@@ -1,5 +1,8 @@
 # BootCamp_Lesson1.3
-Class project test run
+---
+
+![crypto](./images/crypto.jpg)
+
 
 ## Assignment questions here
 
@@ -9,4 +12,13 @@ I'm taking this course to formalize my Python analytics and learn as much as I c
 
 Very much interested in the Internet of Value.
 
+### *__Table of Contents__*
 
+
+[code](./code)
+
+[data](./data)
+
+[images](./images)
+
+[references](./references)
